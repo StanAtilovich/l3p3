@@ -84,7 +84,7 @@
         android:layout_height="wrap_content"
         android:background="@android:color/transparent"
 
-        android:src="@drawable/ic_baseline_favorite_24"
+        android:src="@drawable/ic_baseline_favorite_border_24"
         app:layout_constraintStart_toStartOf="@id/content"
         app:layout_constraintTop_toBottomOf="@id/barrier2"
         app:tint="#999999"
